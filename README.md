@@ -1,2 +1,2 @@
 # NewCV
-This CV is better than the last one
+This CV is (a little) better than the last one
